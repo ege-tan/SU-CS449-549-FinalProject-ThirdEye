@@ -1,0 +1,6 @@
+# Client gereksinimleri
+requests>=2.25.0
+pyttsx3>=2.90
+
+# Raspberry Pi için (Pi'de kurulacak)
+# picamera2  # Pi OS'ta varsayılan olarak gelir
