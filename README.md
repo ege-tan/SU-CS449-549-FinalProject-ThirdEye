@@ -204,8 +204,8 @@ For full technical details, see the [Final Project Report](docs/CS449_Interactio
 
 - **Mehmet Altunören** - User research, interaction design, evaluation
 - **Ege Tan** - Computer vision, embedded implementation
-- **Sait Kaçmaz** - Backend/server, logging, analysis
-- **Eren Yıldız** - Prototype/demo preparation, documentation
+- **Sait Kaçmaz** - Prototype/demo preparation, documentation
+- **Eren Yıldız** - Backend/server, logging, analysis
 
 ## 📖 Citation
 
