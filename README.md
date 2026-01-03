@@ -217,6 +217,12 @@ For full technical details, see the [Final Project Report](docs/CS449_Interactio
   institution={CS 449/549 Human-Computer Interaction}
 }
 ```
+
+## Demonstration Photos
+![WhatsApp Image 2026-01-02 at 20 08 46](https://github.com/user-attachments/assets/501c2b8f-5343-4b1b-85e9-d65117e40928)
+
+![WhatsApp Image 2026-01-02 at 20 08 56](https://github.com/user-attachments/assets/c1b43855-31ac-4529-8cf9-3fde70dd4ecd)
+
 ---
 
 **Design Motto**: *Designing safer pedestrian guidance without expensive dedicated infrastructure or high-precision GPS.*
